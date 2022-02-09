@@ -9,7 +9,7 @@ http://2020.gecon-conference.org
     3. Are relationships between policy decisions and changes in these infection chain structures identifiable?
 * Data used: provided by the *Korea Disease Control and Prevention Agency* and the *DS4C: Data Science for COVID-19 in South Korea* (https://www.kaggle.com/kimjihoo/coronavirusdataset all data released by 15.05.2020)
 * Further details: http://www.gecon-conference.org/articlesgecon2020/no10_paper33.pdf  
-* or https://link.springer.com/chapter/10.1007/978-3-030-63058-4_10. 
+or https://link.springer.com/chapter/10.1007/978-3-030-63058-4_10. 
 
 
 ## Instructions
