@@ -3,7 +3,7 @@
 abandoned Work-In-Progress Paper published in *GECON2020*  
 http://2020.gecon-conference.org
 
-* First major project
+* First project
 * Objective: 
     1. How can *COVID-19* infection chain structures in Korea be characterized?
     2. How do these infection chain structures change over time?
